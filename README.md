@@ -1,16 +1,25 @@
-# flutter_rx_bus_demo
+# FlutterRxBusDemo
 
-flutter_rx_bus_demo
+簡介
+==================================
+如果對於 FlutterRxBus 有興趣的話, 可以參考看看                                
 
-## Getting Started
+取材自以下資源
+--------
+FlutterRxBus                                                                 
+https://github.com/appdev/FlutterRxBus     
 
-This project is a starting point for a Flutter application.
+591房屋交易-租屋、買房、賣房、新建案                                                                 
+https://play.google.com/store/apps/details?id=com.addcn.android.house591&hl=zh_TW 
+                  
+預覽
+--------
+<p align="left">
+  <img src="https://i.imgur.com/FuL65lX.png" width="230"/>
+  <img src="https://i.imgur.com/5LCylOq.png" width="230"/>
+  <img src="https://i.imgur.com/I87AspU.png" width="230"/>
+</p> 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+備註
+--------
+圖片資源僅供學習交流之用, 請勿用於商業用途, 如有侵權請聯繫刪除, 謝謝
